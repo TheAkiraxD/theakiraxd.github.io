@@ -11,37 +11,35 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Maico Santos                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My personal blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A personal blog to display some of my work with coding, 3D modeling, etc.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
-author: your_full_name                  # change to your full name
+author: Maico W. S. Santos                 # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: theakiraxd             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+instagram:
+  username: https://www.instagram.com/maicowss/           # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Maico W. S. Santos                  # it will shows as the copyright owner in Footer
+  email: williamsmaico@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://www.instagram.com/maicowss/     # change to your twitter homepage
+    - https://github.com/theakiraxd       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +79,7 @@ theme_mode:  dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://avatars.githubusercontent.com/u/18691256?s=460&u=d11e767581af2ec8bea413794d03f3e7e5b5085d&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
