@@ -17,10 +17,13 @@ Enjoy :)
   canvas { width: inherit; position: relative; top: 0;}
 </style>
 
-<div id='canvas-holder' style="position: relative; width: inherit;">
+<div style="border: 1px solid white; margin-bottom: 20px;">
+<div id='canvas-holder' style="position: relative; width: inherit; border: 2px solid #1b1b1e">
   <div id="dat-gui-holder" style="position: absolute; top: 0em; right: 0em; z-index: 1;">
     <span style="margin-right: 5px;">* use your mouse to rotate the camera</span>
   </div>
 </div>
+</div>
+
 <script>let Model3D = "../../public/assets/models/CapShield.glb";</script>
 <script type="module" src="/public/assets/js/3dObjectLoader.js"></script>
