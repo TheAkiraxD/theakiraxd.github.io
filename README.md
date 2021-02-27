@@ -38,3 +38,5 @@ About *Three.js* it surely seems reliable, although, rendering 3D models in a we
 ## License
 
 This work is published under [MIT][mit] License.
+
+[mit]: https://github.com/TheAkiraxD/theakiraxd.github.io/blob/main/LICENSE
