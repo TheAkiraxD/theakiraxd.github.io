@@ -30,7 +30,9 @@ You can use your mouse to rorate the camera of the 3D object, you can also zoom 
 ### Possible issues
 
 Naturally, 3D model files can be large sometimes, I will always try to avoid posting unecessarily huge files, however, some files may be a bit big still and depending on the reader's internet speed it might take a few seconds to render the model in the page.
+
 I will eventually add an option to show images of the model instead of its 3D rendering and give the reader the choice to toggle between one or another. For mobile, the images option might be set as default.
+
 About *Three.js* it surely seems reliable, although, rendering 3D models in a webpage is an unnatural thing, so I am expecting casual issues to happen. I will also implement an easy way to report bugs directly from the website.
 
 > As soon as any of those things are implemented, this README file will be updated.
