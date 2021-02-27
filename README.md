@@ -15,7 +15,7 @@ The main goal of this site is to talk about 3D modeling, but especially to displ
 I might also create some posts with coding content since I am a software developer, but this haven't been decided yet.
 In case you want to know more about the author (me) check it out the website's [**About**]() page. 
 
-> Hints and suggestions are always welcome, so if you want to send me a message of any kind send an email to `williamsmaico@gmail.com`. I will decide what to answer based in the content of the message.
+Hints and suggestions are always welcome, so if you want to send me a message of any kind send an email to `williamsmaico@gmail.com`. I will decide what to answer based in the content of the message.
 
 
 ## 3D Models
