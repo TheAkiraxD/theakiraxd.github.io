@@ -172,9 +172,8 @@ class Loader {
 
 	initEvents() {
 		const onResize = () => {
-			this.width = window.innerWidth;
-			this.height = window.innerHeight;
-
+			this.width = this.canvasHolder.clientWidth;
+			this.height = this.width * 0.8;
 			this.camera.aspect = this.width / this.height;
 			this.camera.updateProjectionMatrix();
 
